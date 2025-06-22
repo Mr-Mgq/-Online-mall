@@ -1,0 +1,453 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123456",
+      "avatar": "https://i.pravatar.cc/150?u=admin",
+      "email": "admin@example.com",
+      "phone": "1008611",
+      "address": "北京市朝阳区幸福路1号",
+      "bio": "网站管理员",
+      "createdAt": "2024-01-10T10:00:00Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "T恤",
+      "price": 88.8,
+      "category": "服装",
+      "brand": "Vue Official",
+      "stock": 100,
+      "description": "高品质印花T恤，柔软舒适，适合春夏穿着。",
+      "image": "https://img12.360buyimg.com/n7/jfs/t1/232067/3/21346/29377/6672d721Fe7a515d2/56bb61fd26228274.jpg",
+      "images": [
+        "https://img12.360buyimg.com/n7/jfs/t1/232067/3/21346/29377/6672d721Fe7a515d2/56bb61fd26228274.jpg",
+        "https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg",
+        "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "水杯",
+      "price": 36.5,
+      "category": "生活用品",
+      "brand": "Vue Official",
+      "stock": 200,
+      "description": "双层保温水杯，防滑设计，方便携带。",
+      "image": "https://img14.360buyimg.com/n7/jfs/t1/198797/32/32632/87507/64ca24c5F412dfd50/4a305bb3e1029149.jpg",
+      "images": [
+        "https://img14.360buyimg.com/n7/jfs/t1/198797/32/32632/87507/64ca24c5F412dfd50/4a305bb3e1029149.jpg",
+        "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "时尚耳机",
+      "price": 199,
+      "category": "电子产品",
+      "brand": "TechBrand",
+      "stock": 50,
+      "description": "无线蓝牙耳机，降噪设计，长续航。",
+      "image": "https://img11.360buyimg.com/n7/jfs/t1/307089/6/3472/69386/68302132F817f85cd/05ff3ec219d2a27e.jpg",
+      "images": [
+        "https://img11.360buyimg.com/n7/jfs/t1/307089/6/3472/69386/68302132F817f85cd/05ff3ec219d2a27e.jpg",
+        "https://images.pexels.com/photos/373945/pexels-photo-373945.jpeg"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "智能手表",
+      "price": 299,
+      "category": "电子产品",
+      "brand": "TechBrand",
+      "stock": 80,
+      "description": "多功能智能手表，支持心率监测和运动追踪。",
+      "image": "https://img13.360buyimg.com/n7/jfs/t1/91649/1/52188/82829/66eb11d1Fbea450e3/f85879f0a60469b3.jpg",
+      "images": [
+        "https://img13.360buyimg.com/n7/jfs/t1/91649/1/52188/82829/66eb11d1Fbea450e3/f85879f0a60469b3.jpg",
+        "https://images.pexels.com/photos/277394/pexels-photo-277394.jpeg"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "高清摄像头",
+      "price": 499,
+      "category": "电子产品",
+      "brand": "VisionCam",
+      "stock": 40,
+      "description": "4K高清摄像头，支持远程监控和云存储。",
+      "image": "https://img11.360buyimg.com/n7/jfs/t1/235920/16/9745/167500/658aa1dcFdb3a5d2f/2f2d0b89c142edc5.jpg",
+      "images": [
+        "https://img11.360buyimg.com/n7/jfs/t1/235920/16/9745/167500/658aa1dcFdb3a5d2f/2f2d0b89c142edc5.jpg",
+        "https://images.pexels.com/photos/2820956/pexels-photo-2820956.jpeg"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "无线键盘",
+      "price": 149,
+      "category": "电子产品",
+      "brand": "KeyMaster",
+      "stock": 120,
+      "description": "人体工学设计，无线连接，持久耐用。",
+      "image": "https://img10.360buyimg.com/n7/jfs/t1/108535/6/54082/44028/673d95a4Fe8d2c27b/07bba5dda4df0648.jpg",
+      "images": [
+        "https://img10.360buyimg.com/n7/jfs/t1/108535/6/54082/44028/673d95a4Fe8d2c27b/07bba5dda4df0648.jpg",
+        "https://images.pexels.com/photos/245229/pexels-photo-245229.jpeg"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "舒适抱枕",
+      "price": 58,
+      "category": "家居用品",
+      "brand": "HomeComfort",
+      "stock": 150,
+      "description": "柔软舒适抱枕，适合居家或办公室使用。",
+      "image": "https://img14.360buyimg.com/n7/jfs/t1/281500/10/24869/109324/68063f4aF2f33da5d/d05f28f2cf9e7e91.jpg",
+      "images": [
+        "https://img14.360buyimg.com/n7/jfs/t1/281500/10/24869/109324/68063f4aF2f33da5d/d05f28f2cf9e7e91.jpg",
+        "https://images.pexels.com/photos/271742/pexels-photo-271742.jpeg"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "运动水壶",
+      "price": 42,
+      "category": "运动户外",
+      "brand": "ActiveGear",
+      "stock": 90,
+      "description": "耐用运动水壶，防漏设计，容量大。",
+      "image": "https://img11.360buyimg.com/n7/jfs/t1/311621/14/10412/118028/68517a12Fe0632968/acd62ead7ac70fd3.jpg",
+      "images": [
+        "https://img11.360buyimg.com/n7/jfs/t1/311621/14/10412/118028/68517a12Fe0632968/acd62ead7ac70fd3.jpg",
+        "https://images.pexels.com/photos/208543/pexels-photo-208543.jpeg"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "户外登山背包",
+      "price": 299,
+      "category": "运动户外",
+      "brand": "TrailMaster",
+      "stock": 60,
+      "description": "轻量防水登山背包，多口袋设计，适合长途旅行。",
+      "image": "https://img10.360buyimg.com/n7/jfs/t1/200962/17/43209/72175/665847c2F5fe6133e/c05747933b71c458.jpg",
+      "images": [
+        "https://img10.360buyimg.com/n7/jfs/t1/200962/17/43209/72175/665847c2F5fe6133e/c05747933b71c458.jpg",
+        "https://images.pexels.com/photos/302339/pexels-photo-302339.jpeg"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "经典牛仔裤",
+      "price": 129,
+      "category": "服装",
+      "brand": "DenimCo",
+      "stock": 110,
+      "description": "高品质牛仔布，耐磨舒适，适合日常穿着。",
+      "image": "https://img12.360buyimg.com/n7/jfs/t1/262109/1/22840/70668/67b92dc9F775db37b/cdbf9dfc5a222656.jpg",
+      "images": [
+        "https://img12.360buyimg.com/n7/jfs/t1/262109/1/22840/70668/67b92dc9F775db37b/cdbf9dfc5a222656.jpg",
+        "https://images.pexels.com/photos/428343/pexels-photo-428343.jpeg"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "环保购物袋",
+      "price": 15,
+      "category": "生活用品",
+      "brand": "EcoBag",
+      "stock": 300,
+      "description": "可重复使用，结实耐用，轻松携带。",
+      "image": "https://img12.360buyimg.com/n7/jfs/t1/240930/6/6167/18282/65f9743aF0be637b0/1fe584c7e7949d05.jpg",
+      "images": [
+        "https://img12.360buyimg.com/n7/jfs/t1/240930/6/6167/18282/65f9743aF0be637b0/1fe584c7e7949d05.jpg",
+        "https://images.pexels.com/photos/291762/pexels-photo-291762.jpeg"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "多功能厨房刀具套装",
+      "price": 258,
+      "category": "家居用品",
+      "brand": "ChefPro",
+      "stock": 75,
+      "description": "高品质不锈钢刀具，满足各种厨房需求。",
+      "image": "https://img12.360buyimg.com/n7/jfs/t1/287158/37/11861/106904/684be3bcF7aadfa1f/9963ad53c106e59a.jpg",
+      "images": [
+        "https://img12.360buyimg.com/n7/jfs/t1/287158/37/11861/106904/684be3bcF7aadfa1f/9963ad53c106e59a.jpg",
+        "https://images.pexels.com/photos/281265/pexels-photo-281265.jpeg"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "无线充电器",
+      "price": 99,
+      "category": "电子产品",
+      "brand": "ChargeX",
+      "stock": 85,
+      "description": "快速无线充电，兼容多种手机型号。",
+      "image": "https://img14.360buyimg.com/n7/jfs/t1/277869/22/21568/188602/67fe35d5F742426a0/ffaabbe34dab34b2.jpg",
+      "images": [
+        "https://img14.360buyimg.com/n7/jfs/t1/277869/22/21568/188602/67fe35d5F742426a0/ffaabbe34dab34b2.jpg",
+        "https://images.pexels.com/photos/1334599/pexels-photo-1334599.jpeg"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "时尚运动鞋",
+      "price": 399,
+      "category": "服装",
+      "brand": "SportStep",
+      "stock": 70,
+      "description": "轻便舒适，适合各种运动场景。",
+      "image": "https://img14.360buyimg.com/n7/jfs/t1/58175/31/26514/134882/66ce9847F0033f82e/e1d5cead0eaffc31.jpg",
+      "images": [
+        "https://img14.360buyimg.com/n7/jfs/t1/58175/31/26514/134882/66ce9847F0033f82e/e1d5cead0eaffc31.jpg",
+        "https://images.pexels.com/photos/2529150/pexels-photo-2529150.jpeg"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "办公人体工学椅",
+      "price": 899,
+      "category": "家居用品",
+      "brand": "ComfortOffice",
+      "stock": 30,
+      "description": "符合人体工学设计，提供良好支撑，提升工作效率。",
+      "image": "https://img14.360buyimg.com/n7/jfs/t1/283343/13/9754/534184/67e3ee03F31183193/5ff383b2ac23c0a9.jpg",
+      "images": [
+        "https://img14.360buyimg.com/n7/jfs/t1/283343/13/9754/534184/67e3ee03F31183193/5ff383b2ac23c0a9.jpg",
+        "https://images.pexels.com/photos/4064943/pexels-photo-4064943.jpeg"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "户外登山鞋",
+      "price": 420,
+      "category": "运动户外",
+      "brand": "TrailMaster",
+      "stock": 75,
+      "description": "防水透气登山鞋，适合各种复杂地形。",
+      "image": "https://img12.360buyimg.com/n7/jfs/t1/276688/33/9919/381206/67e27d8dFd83fa882/6ffca8fe1262b754.jpg",
+      "images": [
+        "https://img12.360buyimg.com/n7/jfs/t1/276688/33/9919/381206/67e27d8dFd83fa882/6ffca8fe1262b754.jpg",
+        "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "高端机械键盘",
+      "price": 799,
+      "category": "电子产品",
+      "brand": "KeyMaster Pro",
+      "stock": 40,
+      "description": "机械轴体，RGB灯效，专业游戏键盘。",
+      "image": "https://img10.360buyimg.com/n7/jfs/t1/241235/36/27042/185146/675105deF73833d23/a09989cf630e1008.jpg",
+      "images": [
+        "https://img10.360buyimg.com/n7/jfs/t1/241235/36/27042/185146/675105deF73833d23/a09989cf630e1008.jpg",
+        "https://images.pexels.com/photos/3945655/pexels-photo-3945655.jpeg"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "时尚太阳镜",
+      "price": 199,
+      "category": "服装",
+      "brand": "SunStyle",
+      "stock": 100,
+      "description": "防紫外线，轻盈时尚，适合户外活动。",
+      "image": "https://img12.360buyimg.com/n7/jfs/t1/308504/9/10177/111449/6850d553F1d7e7c52/0a69052101bcca69.jpg",
+      "images": [
+        "https://img12.360buyimg.com/n7/jfs/t1/308504/9/10177/111449/6850d553F1d7e7c52/0a69052101bcca69.jpg",
+        "https://images.pexels.com/photos/1002638/pexels-photo-1002638.jpeg"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "儿童学习平板",
+      "price": 599,
+      "category": "电子产品",
+      "brand": "EduTech",
+      "stock": 70,
+      "description": "专为儿童设计的学习平板，安全护眼。",
+      "image": "https://img12.360buyimg.com/n7/jfs/t1/230014/1/9746/184725/6597cbd0Ffa9ce44e/6a36b6ab47228102.jpg",
+      "images": [
+        "https://img12.360buyimg.com/n7/jfs/t1/230014/1/9746/184725/6597cbd0Ffa9ce44e/6a36b6ab47228102.jpg",
+        "https://images.pexels.com/photos/7156884/pexels-photo-7156884.jpeg"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "智能扫地机器人",
+      "price": 1599,
+      "category": "家居用品",
+      "brand": "CleanBot",
+      "stock": 50,
+      "description": "自动清扫，多功能传感器，智能规划路径。",
+      "image": "https://img14.360buyimg.com/n7/jfs/t1/313873/28/8600/408690/684a483eF2bfb51b5/ee6b7b13a627f1e0.jpg",
+      "images": [
+        "https://img14.360buyimg.com/n7/jfs/t1/313873/28/8600/408690/684a483eF2bfb51b5/ee6b7b13a627f1e0.jpg",
+        "https://images.pexels.com/photos/1170413/pexels-photo-1170413.jpeg"
+      ]
+    },
+    {
+      "id": "21",
+      "title": "女士手提包",
+      "price": 399,
+      "category": "服装",
+      "brand": "FashionBag",
+      "stock": 120,
+      "description": "简约时尚，容量大，适合日常使用。",
+      "image": "https://img10.360buyimg.com/n7/jfs/t1/294206/25/1138/171742/681073b7F52e8fc82/54cd6677e25204ff.jpg",
+      "images": [
+        "https://img10.360buyimg.com/n7/jfs/t1/294206/25/1138/171742/681073b7F52e8fc82/54cd6677e25204ff.jpg",
+        "https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg"
+      ]
+    },
+    {
+      "id": "22",
+      "title": "便携式电热水壶",
+      "price": 120,
+      "category": "生活用品",
+      "brand": "HotKettle",
+      "stock": 85,
+      "description": "快速加热，轻巧便携，旅行必备。",
+      "image": "https://img14.360buyimg.com/n7/jfs/t1/257823/34/3620/17246/676d1d88Fdbf19393/7354f4468503eb59.jpg",
+      "images": [
+        "https://img14.360buyimg.com/n7/jfs/t1/257823/34/3620/17246/676d1d88Fdbf19393/7354f4468503eb59.jpg",
+        "https://images.pexels.com/photos/1911432/pexels-photo-1911432.jpeg"
+      ]
+    },
+    {
+      "id": "23",
+      "title": "户外烧烤套装",
+      "price": 320,
+      "category": "运动户外",
+      "brand": "BBQPro",
+      "stock": 55,
+      "description": "多件套烧烤工具，方便携带，耐用实用。",
+      "image": "https://img10.360buyimg.com/n7/jfs/t1/284518/7/17827/313095/67f7ad3dF87aebe9c/155ae0c110ce3fbc.jpg",
+      "images": [
+        "https://img10.360buyimg.com/n7/jfs/t1/284518/7/17827/313095/67f7ad3dF87aebe9c/155ae0c110ce3fbc.jpg",
+        "https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg"
+      ]
+    },
+    {
+      "id": "24",
+      "title": "多功能运动手环",
+      "price": 180,
+      "category": "电子产品",
+      "brand": "FitTrack",
+      "stock": 90,
+      "description": "心率监测，睡眠分析，运动数据实时同步。",
+      "image": "https://img10.360buyimg.com/n7/jfs/t1/271591/23/27084/61078/680ef82dFab13ccb5/877035dc9affedd6.jpg",
+      "images": [
+        "https://img10.360buyimg.com/n7/jfs/t1/271591/23/27084/61078/680ef82dFab13ccb5/877035dc9affedd6.jpg",
+        "https://images.pexels.com/photos/3945656/pexels-photo-3945656.jpeg"
+      ]
+    },
+    {
+      "id": "25",
+      "title": "高档牛皮钱包",
+      "price": 299,
+      "category": "服装",
+      "brand": "LeatherLux",
+      "stock": 100,
+      "description": "精选牛皮，做工精细，设计时尚耐用。",
+      "image": "https://img10.360buyimg.com/n7/jfs/t1/100308/31/51974/178882/670c7201F8efdf0db/f976930fcdd57bc9.jpg",
+      "images": [
+        "https://img10.360buyimg.com/n7/jfs/t1/100308/31/51974/178882/670c7201F8efdf0db/f976930fcdd57bc9.jpg",
+        "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg"
+      ]
+    },
+    {
+      "id": "26",
+      "title": "厨房多用料理机",
+      "price": 580,
+      "category": "家居用品",
+      "brand": "ChefPro",
+      "stock": 60,
+      "description": "强力马达，多档调节，轻松制作美食。",
+      "image": "https://img11.360buyimg.com/n7/jfs/t1/276668/14/29217/122649/68106942F6c2657a6/dd5e298ef6837264.jpg",
+      "images": [
+        "https://img11.360buyimg.com/n7/jfs/t1/276668/14/29217/122649/68106942F6c2657a6/dd5e298ef6837264.jpg",
+        "https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg"
+      ]
+    },
+    {
+      "id": "27",
+      "title": "时尚防风夹克",
+      "price": 450,
+      "category": "服装",
+      "brand": "WindWear",
+      "stock": 80,
+      "description": "轻便防风，适合户外和日常穿着。",
+      "image": "https://img13.360buyimg.com/n7/jfs/t1/235222/16/25098/71992/66d01d76F042fecc6/ca6e2825835dde8c.jpg",
+      "images": [
+        "https://img13.360buyimg.com/n7/jfs/t1/235222/16/25098/71992/66d01d76F042fecc6/ca6e2825835dde8c.jpg",
+        "https://images.pexels.com/photos/1002638/pexels-photo-1002638.jpeg"
+      ]
+    },
+    {
+      "id": "28",
+      "title": "折叠便携野餐垫",
+      "price": 88,
+      "category": "运动户外",
+      "brand": "PicnicEase",
+      "stock": 120,
+      "description": "防水材质，轻松携带，适合户外活动。",
+      "image": "https://img14.360buyimg.com/n7/jfs/t1/84256/22/27020/357341/645c8ad2F1bef913f/ca0d9c7eab400d6d.jpg",
+      "images": [
+        "https://img14.360buyimg.com/n7/jfs/t1/84256/22/27020/357341/645c8ad2F1bef913f/ca0d9c7eab400d6d.jpg",
+        "https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg"
+      ]
+    },
+    {
+      "id": "29",
+      "title": "智能蓝牙音箱",
+      "price": 320,
+      "category": "电子产品",
+      "brand": "SoundMax",
+      "stock": 75,
+      "description": "高保真音质，便携设计，多设备连接。",
+      "image": "https://img10.360buyimg.com/n7/jfs/t1/197000/1/51797/62786/67494510F8a6b5124/cf4b7871cdb1ffe0.jpg",
+      "images": [
+        "https://img10.360buyimg.com/n7/jfs/t1/197000/1/51797/62786/67494510F8a6b5124/cf4b7871cdb1ffe0.jpg",
+        "https://images.pexels.com/photos/373945/pexels-photo-373945.jpeg"
+      ]
+    },
+    {
+      "id": "30",
+      "title": "办公多功能文件夹",
+      "price": 58,
+      "category": "生活用品",
+      "brand": "OfficePro",
+      "stock": 130,
+      "description": "大容量，分类清晰，方便携带和整理。",
+      "image": "https://img10.360buyimg.com/n7/jfs/t1/295298/4/7278/86273/68366753F4d38084d/f3b1b389c60de2ac.jpg",
+      "images": [
+        "https://img10.360buyimg.com/n7/jfs/t1/295298/4/7278/86273/68366753F4d38084d/f3b1b389c60de2ac.jpg",
+        "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg"
+      ]
+    }
+  ],
+  "carts": [],
+  "orders": [
+    {
+      "id": "36d2",
+      "userId": "1",
+      "products": [
+        {
+          "productId": "4",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-06-22T15:03:02.890Z",
+      "status": "pending"
+    }
+  ]
+}
